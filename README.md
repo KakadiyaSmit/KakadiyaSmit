@@ -1,31 +1,29 @@
-# Smit Kakadiya
+# Hey, I'm Smit.
 
-**CS @ San Francisco State University** · Building software from idea to production.
+**CS @ San Francisco State University. Building things I wish existed.**
 
-I like owning the whole process. The interface, the infrastructure, the details nobody notices until something breaks.
+I love taking an idea from *"what if?"* to something people can actually use. The design, the code, the messy middle, all of it.
 
-Currently building developer tools and exploring where AI, engineering, and thoughtful product design meet.
+### What I'm building
 
-### Selected work
-
-**[Codeography](https://codeography.dev)** · [Source](https://github.com/codeographyHQ/codeography) · [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=codeographyHQ.codeography)
+**[Codeography](https://codeography.dev)** · [GitHub](https://github.com/codeographyHQ/codeography) · [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=codeographyHQ.codeography)
 
 *You code. Codeography tells the story.*
 
-A published VS Code extension that turns recorded coding activity into evidence-backed narratives. Built with offline synchronization, Cloudflare Workers, PostgreSQL, and Claude.
+A published VS Code extension that turns coding activity into evidence-backed stories. Built from scratch, shipped, and still getting better.
 
-**[InterviewGhost](https://interviewghost.site)** · AI-powered mock interviews
+**[InterviewGhost](https://interviewghost.site)**
 
-A live platform for practicing interview conversations with AI.
+An AI mock-interview platform that makes practicing feel a little less like talking to yourself.
 
-### What I work with
+### A little more about me
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `Cloudflare Workers` · `Supabase`
+Curious about almost everything. Big on creativity, traveling, exploring unfamiliar places, and adventures that get my adrenaline going.
 
-### Right now
+I dream big, probably overthink the details, and genuinely enjoy figuring things out.
 
-Making Codeography better for the developers using it, from the first session to the stories they choose to share.
+**Currently:** Making Codeography something developers love coming back to.
 
 ---
 
-**[LinkedIn](https://linkedin.com/in/smit-kakadiya-a5232334b)** · **[Email](mailto:smitkakadiya28@gmail.com)** · **[Codeography](https://codeography.dev)**
+[LinkedIn](https://linkedin.com/in/smit-kakadiya-a5232334b) · [Email](mailto:smitkakadiya28@gmail.com)
